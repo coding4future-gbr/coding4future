@@ -1,6 +1,6 @@
 ---
 title: Children from all over the world meet and code together
-layout: home
+layout: single
 ---
 You have always wanted to learn the basics of programming? You like puzzles and want to control robots? No problem. In our course you will learn the core concepts of programming with Karel. 
 
