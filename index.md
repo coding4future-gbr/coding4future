@@ -23,3 +23,11 @@ Program:
 - Do it and learn: Let robot Karel wander too far through labyrinth and puzzle together
 
 Are you with us? We are looking forward to cool-coding with you.
+
+## Who are we?
+
+![Team coding4future](team.jpg)
+
+- Susan Omondi
+- Margarethe Lutz
+- Christian Trutz
