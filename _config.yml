@@ -1,1 +1,15 @@
-theme: jekyll-theme-hacker
+remote_theme: "mmistakes/minimal-mistakes@4.22.0"
+locale: de
+date_format: "%-d.%-m.%Y"
+plugins:
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-gist
+  - jekyll-feed
+  - jekyll-include-cache
+whitelist:
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-gist
+  - jekyll-feed
+  - jekyll-include-cache
