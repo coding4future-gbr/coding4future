@@ -12,7 +12,7 @@ Simply write us an email **coding4future.gbr@gmail.com**.
 
 ## Next courses
 
-<iframe src="https://calendar.google.com/calendar/embed?src=coding4future.gbr%40gmail.com&ctz=Europe%2FBerlin" style="border: 0" width="100%" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://calendar.google.com/calendar/embed?src=coding4future.gbr%40gmail.com&ctz=Europe%2FBerlin" style="border: 0" width="100%" height="600" frameborder="0" scrolling="no"></iframe>
 
 ## What you need
 
@@ -24,8 +24,7 @@ Do not worry, we can always switch to German, Romanian or in Swahili. Our inspir
 
 ## Program
 
-- Get to know the programming environment: getting ready to code
-- Introduction to the programming languages
+- Introduction to the programming language Karel
 - Do it and learn: Let robot Karel wander too far through labyrinth and puzzle together
 
 Are you with us? We are looking forward to cool-coding with you.
