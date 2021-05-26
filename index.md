@@ -12,7 +12,7 @@ Simply write us an email **coding4future.gbr@gmail.com**.
 
 ## Next courses
 
-<iframe src="https://calendar.google.com/calendar/embed?src=coding4future.gbr%40gmail.com&ctz=Europe%2FBerlin" style="border: 0" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://calendar.google.com/calendar/embed?src=coding4future.gbr%40gmail.com&ctz=Europe%2FBerlin" style="border: 0" width="100%" frameborder="0" scrolling="no"></iframe>
 
 ## What you need
 
