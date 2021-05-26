@@ -6,9 +6,13 @@ You or your children have always wanted to learn the basics of programming? You 
 
 The [Karel programming language](https://en.wikipedia.org/wiki/Karel_(programming_language)) is a cool introduction to the world of programming and makes it much easier to get started in the world of Java, Python, C# and Co. We let the robot Karel wander through a labyrinth  and solve puzzles together.
 
+## Register to our next course
+
+Simply write us an email **coding4future.gbr@gmail.com**.
+
 ## Next courses
 
-<iframe src="https://calendar.google.com/calendar/embed?src=coding4future.gbr%40gmail.com&ctz=Europe%2FBerlin" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://calendar.google.com/calendar/embed?src=coding4future.gbr%40gmail.com&ctz=Europe%2FBerlin" style="border: 0" frameborder="0" scrolling="no"></iframe>
 
 ## What you need
 
@@ -30,6 +34,6 @@ Are you with us? We are looking forward to cool-coding with you.
 
 ![Team coding4future](team.jpg)
 
-- Margarethe Lutz https://www.linkedin.com/in/margarethe-lutz-47a086156/
-- Susan Omondi https://www.linkedin.com/in/susanomondi/
-- Christian Trutz https://www.linkedin.com/in/christiantrutz/
+- [Margarethe Lutz](https://www.linkedin.com/in/margarethe-lutz-47a086156/)
+- [Susan Omondi](https://www.linkedin.com/in/susanomondi/)
+- [Christian Trutz](https://www.linkedin.com/in/christiantrutz/)
