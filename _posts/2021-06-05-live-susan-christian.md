@@ -1,6 +1,6 @@
 ---
 title: Live Christian und Susan
-layout: post
+layout: single
 tags: live
 ---
 
