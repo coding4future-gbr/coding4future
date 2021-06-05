@@ -2,7 +2,9 @@
 title: Children from all over the world meet and code together
 layout: single
 ---
-You or your children have always wanted to learn the basics of programming? You like puzzles and want to control robots? No problem. In our course you will learn the core concepts of programming with Karel. 
+You or your children have always wanted to learn the basics of programming? You like puzzles and want to control robots? No problem. In our course you will learn the core concepts of programming with Karel.
+
+{% include video id="YoVw8E7MOSo" provider="youtube" %}
 
 The [Karel programming language](https://en.wikipedia.org/wiki/Karel_(programming_language)) is a cool introduction to the world of programming and makes it much easier to get started in the world of Java, Python, C# and Co. We let the robot Karel wander through a labyrinth  and solve puzzles together.
 
