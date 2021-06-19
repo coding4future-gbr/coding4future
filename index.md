@@ -10,7 +10,10 @@ The [Karel programming language](https://en.wikipedia.org/wiki/Karel_(programmin
 
 ## Register to our next course
 
-Simply write us an email **coding4future.gbr@gmail.com**.
+<iframe src="http://coding4future.nextevent.com" height="315" width="560" allowfullscreen="" frameborder="0"></iframe>
+In case of any questions please contect us: **coding4future.gbr@gmail.com**.
+Susan, Meggy and Chris are glad to assist you.
+
 
 ## Next courses
 
