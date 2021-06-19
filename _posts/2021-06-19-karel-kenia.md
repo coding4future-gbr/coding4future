@@ -4,14 +4,13 @@ layout: single
 tags: karel
 ---
 
+Does your child want to be there on June 26th, 2021 at 10:00 a.m. CEST?
+Next #coding4future session with five children from #Kenya and five children from Germany.
 
-Hat Dein Kind Lust am 26.06.2021 um 10:00 Uhr dabei zu sein?
-Nächste #coding4future Session mit fünf Kinder aus #Kenia und fünf Kinder aus Deutschland.
+We'll learn the programming language #Karel online together and have a lot of fun doing it.
+All your child needs is an internet connection, zoom and a web browser. Suitable for children from 12 (up to 99 😉).
 
-Wir lernen zusammen online die Programmiersprache #Karel und haben eine Menge Spaß dabei.
-Alles was Dein Kind benötigt ist eine Internetverbindung, Zoom und ein Web Browser. Geeignet für Kinder ab 12 (bis 99 😉).
-
-Die Anmeldung erfolgt über https://coding4future.nextevent.com
-Wir freuen uns auf Dich und deine Kinder 😀
+Registration is via [https://coding4future.nextevent.com](https://coding4future.nextevent.com)
+We look forward to you and your children 😀
 
 {% include video id="QS3o3z1jVfs" provider="youtube" %}
