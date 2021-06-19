@@ -15,11 +15,6 @@ The [Karel programming language](https://en.wikipedia.org/wiki/Karel_(programmin
 In case of any questions please contect us: **coding4future.gbr@gmail.com**.
 Susan, Meggy and Chris are glad to assist you.
 
-
-## Next courses
-
-<iframe src="https://calendar.google.com/calendar/embed?src=coding4future.gbr%40gmail.com&ctz=Europe%2FBerlin" style="border: 0" width="100%" height="600" frameborder="0" scrolling="no"></iframe>
-
 ## What you need
 
 - curiosity, joy of learning, also from mistakes and you are at least 12 years old (12 to 99 years old)
