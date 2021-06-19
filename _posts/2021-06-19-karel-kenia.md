@@ -1,5 +1,5 @@
 ---
-title: Karel Kenia Connection
+title: Karel - Kenya Connection
 layout: single
 tags: karel
 ---
