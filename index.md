@@ -37,3 +37,8 @@ Are you with us? We are looking forward to cool-coding with you.
 - [Margarethe Lutz](https://www.linkedin.com/in/margarethe-lutz-47a086156/)
 - [Susan Omondi](https://www.linkedin.com/in/susanomondi/)
 - [Christian Trutz](https://www.linkedin.com/in/christiantrutz/)
+
+## Inspirer
+
+![Inspirer coding4future](team-inspirer.jpg)
+- [Billy Ramogi](https://www.linkedin.com/in/billyramogi/)
