@@ -1,10 +1,10 @@
 ---
-title: Karl tutorial
+title: Karel tutorial
 layout: single
 tags: tutorial
 ---
 
-Learn the basics of programming with #Karel. 
+Learn the basics of programming with [**Karel**](https://stanford.edu/~cpiech/karel/ide.html). 
 Karel is a super simple programming language for children from the age of 12 but 
 also for adults who are interested in programming and want to start from scratch.
 
