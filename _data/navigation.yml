@@ -1,5 +1,5 @@
 main:
   - title: "Blog"
     url: /posts
-  - title: "Kinderstimmen"
-    url: /kinderstimmen
+  - title: "Stimmen unserer Fans"
+    url: /stimmen
