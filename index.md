@@ -3,7 +3,7 @@ title: Children from all over the world meet and code together
 layout: single
 ---
 
-> Wir befähigen Kinder ihren Diamanten zu schleifen, damit Sie ihr Licht in die Welt reflektieren.
+## We enable children to polish their diamond so that they reflect their light into the world.
 
 You or your children have always wanted to learn the basics of programming? You like puzzles and want to control robots? No problem. In our course you will learn the core concepts of programming with Karel.
 
