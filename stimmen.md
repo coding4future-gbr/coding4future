@@ -1,6 +1,6 @@
 ---
 layout: single
 permalink: /stimmen
-title: Stimmen unserer Fans
+title: Voices of fans
 ---
 
