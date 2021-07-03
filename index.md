@@ -2,6 +2,9 @@
 title: Children from all over the world meet and code together
 layout: single
 ---
+
+> Wir befähigen Kinder ihren Diamanten zu schleifen, damit Sie ihr Licht in die Welt reflektieren.
+
 You or your children have always wanted to learn the basics of programming? You like puzzles and want to control robots? No problem. In our course you will learn the core concepts of programming with Karel.
 
 {% include video id="YoVw8E7MOSo" provider="youtube" %}
