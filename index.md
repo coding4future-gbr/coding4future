@@ -44,4 +44,5 @@ Are you with us? We are looking forward to cool-coding with you.
 ## Inspirer
 
 ![Inspirer coding4future](team-inspirer.jpg)
-- [Billy Ramogi](https://www.linkedin.com/in/billyramogi/)
+- [Billy Ramogi](https://www.linkedin.com/in/billyramogi/) (Softwareentwickler)
+- [Christian Trutz](https://www.linkedin.com/in/christiantrutz/) (Softwareentwickler)
