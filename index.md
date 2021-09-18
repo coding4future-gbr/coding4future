@@ -16,7 +16,7 @@ The [Karel programming language](https://en.wikipedia.org/wiki/Karel_(programmin
 <script class="nextevent" type="text/javascript" src="https://widget-8c1e70f3ce-coding4future.nextevent.com/widget/embed#src=/?margin=0"></script>
 
 In case of any questions please contect us: **coding4future.gbr@gmail.com**.
-Susan, Meggy and Chris are glad to assist you.
+Susan and Chris are glad to assist you.
 
 ## What you need
 
@@ -37,12 +37,11 @@ Are you with us? We are looking forward to cool-coding with you.
 
 ![Team coding4future](team.jpg)
 
-- [Margarethe Lutz](https://www.linkedin.com/in/margarethe-lutz-47a086156/)
 - [Susan Omondi](https://www.linkedin.com/in/susanomondi/)
 - [Christian Trutz](https://www.linkedin.com/in/christiantrutz/)
 
 ## Inspirer
 
 ![Inspirer coding4future](team-inspirer.jpg)
-- [Billy Ramogi](https://www.linkedin.com/in/billyramogi/) (Softwareentwickler)
-- [Christian Trutz](https://www.linkedin.com/in/christiantrutz/) (Softwareentwickler)
+- [Billy Ramogi](https://www.linkedin.com/in/billyramogi/) (Software developer)
+- [Christian Trutz](https://www.linkedin.com/in/christiantrutz/) (Software developer)
