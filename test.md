@@ -22,3 +22,38 @@ Bist du negierig? Wir freuen uns sehr auf dich.
 
 Falls Du noch fragen hast, melde Dich gerne bei uns: **coding4future.gbr@gmail.com**.
 Susan und Christian helfen gerne weiter.
+
+Du oder deine Kinder möchten die Grundlagen der Programmierung kennenlernen? Du magst Puzzel oder liebst es Roboter zu steuern? Kein Problem. In unserem Kurs lernst Du die Grundlagen der Programmierung mit Karel
+
+{% include video id="YoVw8E7MOSo" provider="youtube" %}
+
+Die [Karel Programmiersprache](https://en.wikipedia.org/wiki/Karel_(programming_language)) ist eine coole Einführung in die Welt der Programmierung und ermöglicht es Dir später einfacher mit Programmiersprachen wie Java, C# und Python zu starten. Du steuerst Karel den Roboter durch Labyrinthe und löst Puzzel mit uns zusammen.
+
+## Was benötigst Du?
+
+- Neugierde, Freude am Lernen, auch von Fehlern und Du bist mindestens 12 Jahre alt
+- ein Computer und eine Internetverbindung
+- einfaches Schulenglisch
+
+Mache Dir aber wegen der Sprache keine Sorgen, wir verstehen Englisch, Deutsch, Rumänisch und Swahili.
+Unsere Inspirer passen auf Euch auf.
+
+## Programm
+
+- Kurze Einführung in die Programmiersprache Karel
+- DIY: programmiere Karel selber und lerne dabei die Grundlagen der Programmierung
+
+Machst Du mit? Wir freuen uns auf Dich!
+
+## Wer sind wir?
+
+![Team coding4future](team.jpg)
+
+- [Susan Omondi](https://www.linkedin.com/in/susanomondi/)
+- [Christian Trutz](https://www.linkedin.com/in/christiantrutz/)
+
+## Inspirer
+
+![Inspirer coding4future](team-inspirer.jpg)
+- [Billy Ramogi](https://www.linkedin.com/in/billyramogi/) (Software developer)
+- [Christian Trutz](https://www.linkedin.com/in/christiantrutz/) (Software developer)
