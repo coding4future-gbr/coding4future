@@ -9,16 +9,14 @@ layout: single
 
 <script class="nextevent" type="text/javascript" src="https://widget-8c1e70f3ce-coding4future.nextevent.com/widget/embed#src=/?margin=0"></script>
 
-You or your children have always wanted to learn the basics of programming? You like puzzles and want to control robots?
-No problem. In our course you will learn the core concepts of programming with Karel.
-The Karel programming language is a cool introduction to the world of programming and makes it much easier to get started in the world of Java, Python, C# and Co.
-We let the robot Karel wander through a labyrinth, pick up diamonds and solve puzzles together.
-Meet and code together from all over the world.
-We are looking forward to cool-coding with you. All you need is sustainable internet connection, zoom and a browser.
+You or your children have always wanted to learn the basics of programming? You like puzzles and want to control robots? No problem. In our course you will learn the core concepts of programming with Karel.
 
-For kids only: November 20th, starting at 10:00 am
-For all above 18: November 20th, starting at 4:00 pm
-For kids and everyone else, for families: November 21st, starting at 10:00 am
+The Karel programming language is a cool introduction to the world of programming and makes it much easier to get started in the world of Java, Python, C# and Co. We let the robot Karel wander through a labyrinth, pick up diamonds and solve puzzles together. Meet and code together from all over the world. We are looking forward to cool-coding with you. All you need is sustainable internet connection, zoom and a browser.
+
+- for kids only: November 20th, starting at 10:00 am
+- for all above 18: November 20th, starting at 4:00 pm
+- for kids and everyone else, for families: November 21st, starting at 10:00 am
+
 Depending on the people registering, it will be in english or german.
 
 In case of any questions please contect us: **coding4future.gbr@gmail.com**.
