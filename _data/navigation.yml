@@ -3,3 +3,5 @@ main:
     url: /posts
   - title: "Voices of fans"
     url: /stimmen
+  - title: "Deutsch"
+    url: /german
