@@ -31,7 +31,7 @@ Die [Karel Programmiersprache](https://en.wikipedia.org/wiki/Karel_(programming_
 
 ## Was benötigst Du?
 
-- Neugierde, Freude am Lernen, auch von Fehlern und Du bist mindestens 12 Jahre alt
+- Neugierde, Freude am Lernen und Du bist mindestens 12 Jahre alt
 - ein Computer und eine Internetverbindung
 - einfaches Schulenglisch
 
@@ -55,5 +55,5 @@ Machst Du mit? Wir freuen uns auf Dich!
 ## Inspirer
 
 ![Inspirer coding4future](team-inspirer.jpg)
-- [Billy Ramogi](https://www.linkedin.com/in/billyramogi/) (Software developer)
-- [Christian Trutz](https://www.linkedin.com/in/christiantrutz/) (Software developer)
+- [Billy Ramogi](https://www.linkedin.com/in/billyramogi/) (Softwareentwickler)
+- [Christian Trutz](https://www.linkedin.com/in/christiantrutz/) (Softwareentwickler)
