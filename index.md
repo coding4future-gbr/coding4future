@@ -9,10 +9,10 @@ layout: single
 
 Coding simply means telling the computer what to do. Kids love to be in charge and they enjoy what they do. With guidance from inspirers, they can even achieve more. Here are 7 reasons why coding is so crucial for kids:
 
-1.	New ideas are awesome
+### 1. New ideas are awesome
 There is nothing as wonderful as coming up with ideas, kids like it all the time. The testing part to see if they work is the most exciting. Kids while coding, have the chance to develop ideas, and evaluate what works and what doesn’t. This helps them eventually in critical thinking as they grow.
 
-2.	Create. Do not just Consume
+2. Create. Do not just Consume
 According to UNICEF (2018), 1 in 3 internet users are children. Are they safe? How much control do they or their parents have over what they consume? Coding comes in handy. One, there is the active instead of passive bit, which means creativity. Two, it provides a balance in entertainment for kids. Kids love what they create and with coding, they will do so independently; that is amazing.
 
 3. Into the new digital world
