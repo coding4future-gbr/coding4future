@@ -13,13 +13,13 @@ Coding simply means telling the computer what to do. Kids love to be in charge a
 There is nothing as wonderful as coming up with ideas, kids like it all the time. The testing part to see if they work is the most exciting. Kids while coding, have the chance to develop ideas, and evaluate what works and what doesn’t. This helps them eventually in critical thinking as they grow.
 
 ### 2. Create. Do not just Consume
-According to UNICEF (2018), 1 in 3 internet users are children. Are they safe? How much control do they or their parents have over what they consume? Coding comes in handy. One, there is the active instead of passive bit, which means creativity. Two, it provides a balance in entertainment for kids. Kids love what they create and with coding, they will do so independently; that is amazing.
+According to UNICEF (2018)[^unicef], 1 in 3 internet users are children. Are they safe? How much control do they or their parents have over what they consume? Coding comes in handy. One, there is the active instead of passive bit, which means creativity. Two, it provides a balance in entertainment for kids. Kids love what they create and with coding, they will do so independently; that is amazing.
 
 ### 3. Into the new digital world
 Job creators are becoming more interested in job seekers who are more competent in computer skills. Our kids are the future employee/employers. As your kids become familiar with such skills early enough, they prepare for employability, flexibility and self-employability.
 
 ### 4. Problem solving is a must
-Problem solving is as essential in life as food. Why? Children need to grow confidence in a world that is ever presenting new challenges. Malborough (2020) agree that, “By viewing problems as opportunities to grow, children broaden their understanding while building confidence.” Coding is one great way of learning problem-solving skills. The nice thing about this is kids do it all by themselves. This has a lasting impact in their lives, hence character building.
+Problem solving is as essential in life as food. Why? Children need to grow confidence in a world that is ever presenting new challenges. Malborough (2020)[^malborough] agree that, *By viewing problems as opportunities to grow, children broaden their understanding while building confidence*. Coding is one great way of learning problem-solving skills. The nice thing about this is kids do it all by themselves. This has a lasting impact in their lives, hence character building.
 
 ### 5. One more hobby
 For every parent it is important that their children find productive activities. Coding is a wonderful way of kids spending their free time. Learning new challenges and skills prepares them for life ahead.
@@ -28,8 +28,13 @@ For every parent it is important that their children find productive activities.
 Coding is part of computer science. If learnt consistently, youths can come up with ideas like creating apps, hence a business opportunity. As kids grow up, they learn to see gaps to be filled in the society, and at the same time, earning opportunities from what they can develop.
 
 ### 7. We all love good brains
-It is scientifically proved that every intellectual engagement like coding is a boost for brain activities. Kashyap (2021) notes that, the brain’s capacity to learn is enhanced during computer programing. For instance, as kids solve the puzzles, they are challenged to have a good memory which is one of the most important brain functions. Kids (Brains) at work, mommies and pappies at peace.
+It is scientifically proved that every intellectual engagement like coding is a boost for brain activities. Kashyap (2021)[^kashyap] notes that, the *brain’s capacity to learn* is enhanced during computer programing. For instance, as kids solve the puzzles, they are challenged to have a good memory which is one of the most important brain functions. Kids brains at work, mommies and pappies at peace.
 
+[^unicef]: UNICEF (2018). More than 175,000 children go online for the first time every day, tapping into great opportunities, but facing grave risks. Retrieved from https://www.unicef.org/eca/press-releases/more-175000-children-go-online-first-time-every-day-tapping-great-opportunities
+
+[^malborough]: Malborough (2020). Why is problem solving important in Child Development? Retrieved https://www.marlborough.org/news/~board/health-and-wellness/post/why-is-problem-solving-important-in-child-development
+
+[^kashyap]: Kashyap N. (2021). How Programming Affects Your Brain: 3 Big Truths Backed by Science. Retrieved https://javascript.plainenglish.io/how-programming-affects-your-brain-fedea6b02f85
 
 ## Register to our next course
 
