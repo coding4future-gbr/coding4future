@@ -5,6 +5,13 @@ layout: single
 
 > Kids brains at work, mommies and pappies at peace.
 
+## Register to our next course
+
+<!-- Calendly Inline-Widget Beginn -->
+<div class="calendly-inline-widget" data-url="https://calendly.com/coding4future?hide_landing_page_details=1&hide_gdpr_banner=1" style="min-width:320px;min-height:320px;"></div>
+<script type="text/javascript" src="https://assets.calendly.com/assets/external/widget.js" async></script>
+<!-- Calendly Inline-Widget Ende -->
+
 ## 7 Benefits of coding for kids
 
 Coding simply means telling the computer what to do. Kids love to be in charge and they enjoy what they do. With guidance from inspirers, they can even achieve more. Here are 7 reasons why coding is so crucial for kids:
@@ -35,13 +42,6 @@ It is scientifically proved that every intellectual engagement like coding is a 
 [^malborough]: Malborough (2020). Why is problem solving important in Child Development? Retrieved https://www.marlborough.org/news/~board/health-and-wellness/post/why-is-problem-solving-important-in-child-development
 
 [^kashyap]: Kashyap N. (2021). How Programming Affects Your Brain: 3 Big Truths Backed by Science. Retrieved https://javascript.plainenglish.io/how-programming-affects-your-brain-fedea6b02f85
-
-## Register to our next course
-
-<!-- Calendly Inline-Widget Beginn -->
-<div class="calendly-inline-widget" data-url="https://calendly.com/coding4future?hide_landing_page_details=1&hide_gdpr_banner=1" style="min-width:320px;min-height:320px;"></div>
-<script type="text/javascript" src="https://assets.calendly.com/assets/external/widget.js" async></script>
-<!-- Calendly Inline-Widget Ende -->
 
 You or your children have always wanted to learn the basics of programming? You like puzzles and want to control robots? No problem. In our course you will learn the core concepts of programming with Karel.
 
