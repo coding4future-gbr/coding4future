@@ -39,7 +39,7 @@ It is scientifically proved that every intellectual engagement like coding is a 
 ## Register to our next course
 
 <!-- Calendly Inline-Widget Beginn -->
-<div class="calendly-inline-widget" data-url="https://calendly.com/coding4future?hide_landing_page_details=1&hide_gdpr_banner=1" style="min-width:320px;height:630px;"></div>
+<div class="calendly-inline-widget" data-url="https://calendly.com/coding4future?hide_landing_page_details=1&hide_gdpr_banner=1" style="min-width:320px;min-height:320px;"></div>
 <script type="text/javascript" src="https://assets.calendly.com/assets/external/widget.js" async></script>
 <!-- Calendly Inline-Widget Ende -->
 
@@ -51,8 +51,6 @@ Depending on the people registering, it will be in english or german.
 
 In case of any questions please contect us: **coding4future.gbr@gmail.com**.
 Susan and Chris are glad to assist you.
-
-You or your children have always wanted to learn the basics of programming? You like puzzles and want to control robots? No problem. In our course you will learn the core concepts of programming with Karel.
 
 {% include video id="YoVw8E7MOSo" provider="youtube" %}
 
