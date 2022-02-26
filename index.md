@@ -38,7 +38,10 @@ It is scientifically proved that every intellectual engagement like coding is a 
 
 ## Register to our next course
 
-<script class="nextevent" type="text/javascript" src="https://widget-8c1e70f3ce-coding4future.nextevent.com/widget/embed#src=/?margin=0"></script>
+<!-- Calendly Inline-Widget Beginn -->
+<div class="calendly-inline-widget" data-url="https://calendly.com/coding4future" style="min-width:320px;height:630px;"></div>
+<script type="text/javascript" src="https://assets.calendly.com/assets/external/widget.js" async></script>
+<!-- Calendly Inline-Widget Ende -->
 
 You or your children have always wanted to learn the basics of programming? You like puzzles and want to control robots? No problem. In our course you will learn the core concepts of programming with Karel.
 
