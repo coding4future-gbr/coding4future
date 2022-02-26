@@ -12,6 +12,14 @@ layout: single
 <script type="text/javascript" src="https://assets.calendly.com/assets/external/widget.js" async></script>
 <!-- Calendly Inline-Widget Ende -->
 
+## Whould you like to support us throught PayPal?
+
+<form action="https://www.paypal.com/donate" method="post" target="_top">
+<input type="hidden" name="hosted_button_id" value="EV95X46G6CBYJ" />
+<input type="image" src="https://pics.paypal.com/00/s/MDJjYzM1NjgtMjczYS00MzYxLTllNzItZjczMThmZmRhMTIx/file.PNG" border="0" name="submit" title="PayPal - The safer, easier way to pay online!" alt="Donate with PayPal button" />
+<img alt="" border="0" src="https://www.paypal.com/en_DE/i/scr/pixel.gif" width="1" height="1" />
+</form>
+
 ## 7 Benefits of coding for kids
 
 Coding simply means telling the computer what to do. Kids love to be in charge and they enjoy what they do. With guidance from inspirers, they can even achieve more. Here are 7 reasons why coding is so crucial for kids:
