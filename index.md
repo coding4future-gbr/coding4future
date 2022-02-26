@@ -7,11 +7,10 @@ layout: single
 
 ## Register for our next course
 
-<!-- Calendly Badge-Widget Beginn -->
-<link href="https://assets.calendly.com/assets/external/widget.css" rel="stylesheet">
-<script src="https://assets.calendly.com/assets/external/widget.js" type="text/javascript" async></script>
-<script type="text/javascript">window.onload = function() { Calendly.initBadgeWidget({ url: 'https://calendly.com/coding4future', text: 'Register', color: '#0069ff', textColor: '#ffffff', branding: true }); }</script>
-<!-- Calendly Badge-Widget Ende -->
+<!-- Calendly Inline-Widget Beginn -->
+<div class="calendly-inline-widget" data-url="https://calendly.com/coding4future" style="min-width:320px;height:630px;"></div>
+<script type="text/javascript" src="https://assets.calendly.com/assets/external/widget.js" async></script>
+<!-- Calendly Inline-Widget Ende -->
 
 ## 7 Benefits of coding for kids
 
