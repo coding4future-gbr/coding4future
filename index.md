@@ -5,7 +5,7 @@ layout: single
 
 > Kids brains at work, mommies and pappies at peace.
 
-## Register to our next course
+## Register for our next course
 
 <!-- Calendly Badge-Widget Beginn -->
 <link href="https://assets.calendly.com/assets/external/widget.css" rel="stylesheet">
