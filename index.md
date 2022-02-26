@@ -8,7 +8,7 @@ layout: single
 ## Register to our next course
 
 <!-- Calendly Inline-Widget Beginn -->
-<div class="calendly-inline-widget" data-url="https://calendly.com/coding4future?hide_landing_page_details=1&hide_gdpr_banner=1" style="min-width:320px;min-height:320px;"></div>
+<div class="calendly-inline-widget" data-url="https://calendly.com/coding4future?hide_landing_page_details=1&hide_gdpr_banner=1" style="min-width:320px;min-height:420px;"></div>
 <script type="text/javascript" src="https://assets.calendly.com/assets/external/widget.js" async></script>
 <!-- Calendly Inline-Widget Ende -->
 
