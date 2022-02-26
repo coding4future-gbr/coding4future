@@ -12,7 +12,7 @@ layout: single
 <script type="text/javascript" src="https://assets.calendly.com/assets/external/widget.js" async></script>
 <!-- Calendly Inline-Widget Ende -->
 
-## Whould you like to support us throught PayPal?
+## Whould you like to support us through PayPal?
 
 <form action="https://www.paypal.com/donate" method="post" target="_top">
 <input type="hidden" name="hosted_button_id" value="EV95X46G6CBYJ" />
