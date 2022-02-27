@@ -5,13 +5,6 @@ layout: single
 
 > Kids brains at work, mommies and pappies at peace.
 
-## Register for our next course
-
-<!-- Calendly Inline-Widget Beginn -->
-<div class="calendly-inline-widget" data-url="https://calendly.com/coding4future?background_color=fc9f00" style="min-width:320px;height:630px;"></div>
-<script type="text/javascript" src="https://assets.calendly.com/assets/external/widget.js" async></script>
-<!-- Calendly Inline-Widget Ende -->
-
 ## Whould you like to support us through PayPal?
 
 <form action="https://www.paypal.com/donate" method="post" target="_top" style="background-color:#fff">
