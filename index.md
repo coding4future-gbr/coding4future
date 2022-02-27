@@ -5,15 +5,14 @@ layout: single
 
 > Kids brains at work, mommies and pappies at peace.
 
-## Registration
-
+## Register 
 <!-- Calendly Link-Widget Beginn -->
 <link href="https://assets.calendly.com/assets/external/widget.css" rel="stylesheet">
 <script src="https://assets.calendly.com/assets/external/widget.js" type="text/javascript" async></script>
-<a href="" onclick="Calendly.initPopupWidget({url: 'https://calendly.com/coding4future'});return false;">Schedule</a>
+<a href="" onclick="Calendly.initPopupWidget({url: 'https://calendly.com/coding4future'});return false;">your next Karel sessions</a>
 <!-- Calendly Link-Widget Ende -->
 
-## Whould you like to support us through PayPal?
+Whould you like to support us through PayPal?
 
 <form action="https://www.paypal.com/donate" method="post" target="_top" style="background-color:#fff">
 <input type="hidden" name="hosted_button_id" value="EV95X46G6CBYJ" />
