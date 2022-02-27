@@ -5,6 +5,10 @@ layout: single
 
 > Kids brains at work, mommies and pappies at peace.
 
+## Registration
+
+Please send us an email: coding4future.gbr@gmail.com
+
 ## Whould you like to support us through PayPal?
 
 <form action="https://www.paypal.com/donate" method="post" target="_top" style="background-color:#fff">
