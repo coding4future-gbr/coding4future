@@ -7,7 +7,11 @@ layout: single
 
 ## Registration
 
-Please send us an email: coding4future.gbr@gmail.com
+<!-- Calendly Link-Widget Beginn -->
+<link href="https://assets.calendly.com/assets/external/widget.css" rel="stylesheet">
+<script src="https://assets.calendly.com/assets/external/widget.js" type="text/javascript" async></script>
+<a href="" onclick="Calendly.initPopupWidget({url: 'https://calendly.com/coding4future'});return false;">Schedule</a>
+<!-- Calendly Link-Widget Ende -->
 
 ## Whould you like to support us through PayPal?
 
