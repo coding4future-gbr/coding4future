@@ -1,6 +1,6 @@
 main:
    -title: "Register"
-    url: /register
+    url: https://calendly.com/coding4future/karel?month=2022-02
   - title: "Blog"
     url: /posts
   - title: "Voices of fans"
