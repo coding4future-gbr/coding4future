@@ -5,7 +5,7 @@ layout: single
 
 > Kids brains at work, mommies and pappies at peace.
 
-## Register Your next Karel course
+## Register Your next Karel or Python course
 
 <!-- Calendly Link-Widget Beginn -->
 <link href="https://assets.calendly.com/assets/external/widget.css" rel="stylesheet">
